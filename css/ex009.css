@@ -1,0 +1,15 @@
+P{
+    color: goldenrod;
+    font-size: 36PX;
+    background-color: rgb(83, 112, 165);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 13PX;
+    text-align: center;
+    font-weight: 600;
+}
+ #Sobrenome{
+    color: rgb(38, 207, 75);
+}
+.texto{
+    color: rgb(95, 227, 250);
+}
